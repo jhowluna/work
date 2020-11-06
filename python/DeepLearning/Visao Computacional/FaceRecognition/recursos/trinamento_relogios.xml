@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/luna/Documents/dev/workspaces/python/DeepLearning/Visao Computacional/IAExpert/FaceRecognition/relogios_treinamento/relogio1.jpg'>
+    <box top='400' left='431' width='1' height='1'/>
+    <box top='527' left='561' width='1' height='1'/>
+    <box top='383' left='390' width='171' height='161'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/python/DeepLearning/Visao Computacional/IAExpert/FaceRecognition/relogios_treinamento/relogio2.jpg'>
+    <box top='207' left='224' width='269' height='318'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/python/DeepLearning/Visao Computacional/IAExpert/FaceRecognition/relogios_treinamento/relogio3.jpg'>
+    <box top='244' left='332' width='306' height='285'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/python/DeepLearning/Visao Computacional/IAExpert/FaceRecognition/relogios_treinamento/relogio4.jpg'>
+    <box top='325' left='445' width='121' height='107'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/python/DeepLearning/Visao Computacional/IAExpert/FaceRecognition/relogios_treinamento/relogio5.jpg'>
+    <box top='126' left='184' width='268' height='253'/>
+  </image>
+</images>
+</dataset>

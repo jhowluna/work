@@ -1,0 +1,8 @@
+import cv2
+import numpy as np
+from matplotlib import pyplot as plt
+
+img = cv2.imread('images.jpg',0)
+image = np.array(img)
+
+cv2.imwrite('teste.BMP',image)
