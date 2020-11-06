@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/download (1).jpeg'>
+    <box top='62' left='93' width='128' height='76'>
+      <part name='1' x='201' y='69'/>
+      <part name='2' x='155' y='71'/>
+      <part name='3' x='106' y='71'/>
+      <part name='4' x='112' y='88'/>
+      <part name='5' x='156' y='135'/>
+      <part name='6' x='199' y='87'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/download (2).jpeg'>
+    <box top='44' left='72' width='70' height='50'>
+      <part name='1' x='139' y='47'/>
+      <part name='2' x='104' y='54'/>
+      <part name='3' x='75' y='47'/>
+      <part name='4' x='76' y='60'/>
+      <part name='5' x='103' y='89'/>
+      <part name='6' x='138' y='58'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/download (3).jpeg'>
+    <box top='67' left='140' width='115' height='87'>
+      <part name='1' x='231' y='73'/>
+      <part name='2' x='157' y='74'/>
+      <part name='3' x='147' y='119'/>
+      <part name='4' x='186' y='149'/>
+      <part name='5' x='226' y='119'/>
+      <part name='6' x='237' y='105'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/download (4).jpeg'>
+    <box top='68' left='82' width='91' height='67'>
+      <part name='1' x='163' y='76'/>
+      <part name='2' x='127' y='81'/>
+      <part name='3' x='90' y='78'/>
+      <part name='4' x='91' y='92'/>
+      <part name='5' x='129' y='130'/>
+      <part name='6' x='165' y='92'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/download.jpeg'>
+    <box top='67' left='99' width='114' height='100'>
+      <part name='1' x='206' y='92'/>
+      <part name='2' x='155' y='105'/>
+      <part name='3' x='104' y='82'/>
+      <part name='4' x='106' y='116'/>
+      <part name='5' x='156' y='162'/>
+      <part name='6' x='204' y='126'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (1).jpeg'>
+    <box top='39' left='66' width='101' height='86'>
+      <part name='1' x='158' y='64'/>
+      <part name='2' x='104' y='43'/>
+      <part name='3' x='70' y='88'/>
+      <part name='4' x='106' y='122'/>
+      <part name='5' x='146' y='81'/>
+      <part name='6' x='158' y='97'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (10).jpeg'>
+    <box top='95' left='68' width='103' height='74'>
+      <part name='1' x='163' y='100'/>
+      <part name='2' x='122' y='99'/>
+      <part name='3' x='76' y='98'/>
+      <part name='4' x='71' y='112'/>
+      <part name='5' x='123' y='164'/>
+      <part name='6' x='166' y='113'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (11).jpeg'>
+    <box top='37' left='128' width='61' height='43'>
+      <part name='1' x='182' y='39'/>
+      <part name='2' x='165' y='41'/>
+      <part name='3' x='142' y='41'/>
+      <part name='4' x='136' y='50'/>
+      <part name='5' x='161' y='76'/>
+      <part name='6' x='179' y='61'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (12).jpeg'>
+    <box top='109' left='41' width='93' height='65'>
+      <part name='1' x='115' y='114'/>
+      <part name='2' x='62' y='113'/>
+      <part name='3' x='48' y='143'/>
+      <part name='4' x='69' y='168'/>
+      <part name='5' x='100' y='153'/>
+      <part name='6' x='113' y='130'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (13).jpeg'>
+    <box top='44' left='156' width='50' height='37'>
+      <part name='1' x='199' y='48'/>
+      <part name='2' x='176' y='45'/>
+      <part name='3' x='162' y='56'/>
+      <part name='4' x='163' y='63'/>
+      <part name='5' x='180' y='76'/>
+      <part name='6' x='200' y='57'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (14).jpeg'>
+    <box top='83' left='81' width='82' height='72'>
+      <part name='1' x='150' y='84'/>
+      <part name='2' x='115' y='99'/>
+      <part name='3' x='103' y='140'/>
+      <part name='4' x='130' y='150'/>
+      <part name='5' x='151' y='145'/>
+      <part name='6' x='160' y='122'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (15).jpeg'>
+    <box top='83' left='72' width='121' height='79'>
+      <part name='1' x='174' y='84'/>
+      <part name='2' x='141' y='102'/>
+      <part name='3' x='109' y='103'/>
+      <part name='4' x='98' y='97'/>
+      <part name='5' x='99' y='129'/>
+      <part name='6' x='165' y='158'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (16).jpeg'>
+    <box top='56' left='92' width='71' height='52'>
+      <part name='1' x='156' y='61'/>
+      <part name='2' x='127' y='60'/>
+      <part name='3' x='98' y='62'/>
+      <part name='4' x='99' y='80'/>
+      <part name='5' x='124' y='101'/>
+      <part name='6' x='152' y='79'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (2).jpeg'>
+    <box top='5' left='28' width='235' height='162'>
+      <part name='1' x='243' y='47'/>
+      <part name='2' x='152' y='76'/>
+      <part name='3' x='51' y='42'/>
+      <part name='4' x='55' y='109'/>
+      <part name='5' x='142' y='165'/>
+      <part name='6' x='237' y='107'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (3).jpeg'>
+    <box top='106' left='54' width='89' height='72'>
+      <part name='1' x='119' y='127'/>
+      <part name='2' x='102' y='116'/>
+      <part name='3' x='63' y='121'/>
+      <part name='4' x='69' y='146'/>
+      <part name='5' x='95' y='170'/>
+      <part name='6' x='117' y='169'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (4).jpeg'>
+    <box top='79' left='121' width='126' height='92'>
+      <part name='1' x='237' y='85'/>
+      <part name='2' x='185' y='96'/>
+      <part name='3' x='137' y='87'/>
+      <part name='4' x='143' y='112'/>
+      <part name='5' x='180' y='166'/>
+      <part name='6' x='226' y='133'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (5).jpeg'>
+    <box top='51' left='102' width='68' height='46'>
+      <part name='1' x='160' y='57'/>
+      <part name='2' x='152' y='53'/>
+      <part name='3' x='123' y='59'/>
+      <part name='4' x='124' y='77'/>
+      <part name='5' x='151' y='92'/>
+      <part name='6' x='161' y='78'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (6).jpeg'>
+    <box top='46' left='65' width='151' height='122'>
+      <part name='1' x='202' y='57'/>
+      <part name='2' x='184' y='64'/>
+      <part name='3' x='86' y='59'/>
+      <part name='4' x='113' y='163'/>
+      <part name='5' x='189' y='128'/>
+      <part name='6' x='202' y='112'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (7).jpeg'>
+    <box top='76' left='60' width='115' height='79'>
+      <part name='1' x='157' y='81'/>
+      <part name='2' x='117' y='91'/>
+      <part name='3' x='91' y='86'/>
+      <part name='4' x='75' y='96'/>
+      <part name='5' x='115' y='148'/>
+      <part name='6' x='161' y='112'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (8).jpeg'>
+    <box top='84' left='61' width='57' height='43'>
+      <part name='1' x='116' y='86'/>
+      <part name='2' x='79' y='87'/>
+      <part name='3' x='72' y='86'/>
+      <part name='4' x='68' y='101'/>
+      <part name='5' x='75' y='112'/>
+      <part name='6' x='94' y='123'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images (9).jpeg'>
+    <box top='61' left='115' width='50' height='40'>
+      <part name='1' x='157' y='65'/>
+      <part name='2' x='143' y='62'/>
+      <part name='3' x='122' y='70'/>
+      <part name='4' x='123' y='86'/>
+      <part name='5' x='146' y='98'/>
+      <part name='6' x='160' y='78'/>
+    </box>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/imagens/images.jpeg'>
+    <box top='63' left='94' width='110' height='90'>
+      <part name='1' x='197' y='78'/>
+      <part name='2' x='155' y='66'/>
+      <part name='3' x='103' y='89'/>
+      <part name='4' x='116' y='107'/>
+      <part name='5' x='110' y='128'/>
+      <part name='6' x='157' y='149'/>
+    </box>
+  </image>
+</images>
+</dataset>

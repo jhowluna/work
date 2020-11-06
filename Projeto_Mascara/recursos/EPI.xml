@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (1).jpeg'>
+    <box top='5' left='20' width='98' height='58'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (2).jpeg'>
+    <box top='16' left='80' width='61' height='35'/>
+    <box top='2' left='181' width='69' height='33'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (3).jpeg'>
+    <box top='12' left='95' width='45' height='28'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (4).jpeg'>
+    <box top='3' left='113' width='52' height='32'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (5).jpeg'>
+    <box top='8' left='108' width='124' height='66'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (6).jpeg'>
+    <box top='19' left='155' width='60' height='40'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download.jpeg'>
+    <box top='10' left='53' width='96' height='52'/>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/images.jpeg'>
+    <box top='7' left='42' width='77' height='49'/>
+  </image>
+</images>
+</dataset>

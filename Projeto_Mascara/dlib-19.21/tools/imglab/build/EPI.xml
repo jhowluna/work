@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (1).jpeg'>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (2).jpeg'>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (3).jpeg'>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (4).jpeg'>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download (5).jpeg'>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/download.jpeg'>
+  </image>
+  <image file='/home/luna/Documents/dev/workspaces/Projeto_Mascara/dlib-19.21/tools/imglab/EPI/images.jpeg'>
+  </image>
+</images>
+</dataset>
