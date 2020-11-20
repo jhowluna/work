@@ -9,9 +9,10 @@ from tensorflow.python.keras.layers.normalization import BatchNormalization # at
 (X_treinamento, y_treinamento), (X_teste, y_teste) = mnist.load_data()
 plt.imshow(X_treinamento[0], cmap = 'gray')
 plt.title('Classe ' + str(y_treinamento[0]))
+plt.show()
 
-previsores_treinamento = X_treinamento.reshape(X_treinamento.shape[0],
-                                               28, 28, 1)
+previsores_treinamento = X_treinamento.reshape(X_treinamento.shape[0],28, 28, 1)
+
 previsores_teste = X_teste.reshape(X_teste.shape[0], 28, 28, 1)
 previsores_treinamento = previsores_treinamento.astype('float32')
 previsores_teste = previsores_teste.astype('float32')
@@ -56,6 +57,7 @@ resultado = classificador.evaluate(previsores_teste, classe_teste)
 # pode visualizar que trata-se do número 7
 plt.imshow(X_teste[0], cmap = 'gray')
 plt.title('Classe ' + str(y_teste[0]))
+plt.show()
 
 # Criamos uma única variável que armazenará a imagem a ser classificada e
 # também fazemos a transformação na dimensão para o tensorflow processar
