@@ -5,6 +5,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator # atualizado
 import numpy as np
 from tensorflow.keras.preprocessing import image # atualizado: tensorflow==2.0.0-beta1
 
+
 classificador = Sequential()
 classificador.add(Conv2D(32, (3,3), input_shape = (64, 64, 3), activation = 'relu'))
 classificador.add(BatchNormalization())

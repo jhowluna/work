@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau, ModelCheckpoint # atualizado: tensorflow==2.0.0-beta1
 
-base = pd.read_csv('petr4-treinamento.csv')
+base = pd.read_csv('petr4_treinamento.csv')
 base = base.dropna()
 base_treinamento = base.iloc[:, 1:7].values
 
